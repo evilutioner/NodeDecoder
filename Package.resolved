@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "NodeBridge",
-        "repositoryURL": "https://github.com/kewlbear/NodeBridge.git",
+        "repositoryURL": "https://github.com/evilutioner/NodeBridge.git",
         "state": {
           "branch": "main",
           "revision": "a0a160c3e0159ca6cd7b2f7bfa5568db24420d73",

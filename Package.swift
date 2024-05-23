@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/kewlbear/nodejs-ios.git", .branch("main")),
-        .package(url: "https://github.com/kewlbear/NodeBridge.git", .branch("main")),
+        .package(url: "https://github.com/evilutioner/NodeBridge.git", .branch("main")),
     ],
     targets: [
         .target(
